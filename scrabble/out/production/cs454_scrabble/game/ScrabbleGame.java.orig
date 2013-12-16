@@ -1,0 +1,114 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package game;
+
+import automata.Dawg;
+import java.io.IOException;
+import java.util.List;
+import javax.swing.JFrame;
+
+/**
+ *
+ * @author sean
+ */
+public class ScrabbleGame {
+    static boolean debug = true;
+    private String fileName;
+    private List <Tile> tilesLeft;
+    private Dawg dD;
+    private Player player1, player2, activePlayer;
+    private Board board;
+    private ScrabbleWindow scrabbleWindow;
+    
+    ScrabbleGame(){
+        board = new Board(15);
+        this.fileName = new String("dictionary.txt");
+    }
+    
+    ScrabbleGame(int boardSize, String dictFileName){
+        this.fileName = dictFileName;
+        Board board = new Board(boardSize);
+    }
+    
+    
+    public static void main(String[] args) {
+        int tmpBoardSize;
+        String dictFile;
+        ScrabbleGame game;
+        if (args.length < 1){
+            
+        }else if (args.length <2){
+            
+        }else if (args.length > 2){
+            tmpBoardSize = Integer.parseInt(args[1]);
+            dictFile = args[2];
+            game = new ScrabbleGame(tmpBoardSize, dictFile);
+        }
+        game = new ScrabbleGame();
+        
+        
+    }
+    
+    // Returns a pointer to the player that wins
+    public Player play(){
+        setGameWindow(new ScrabbleWindow(board, player1, player2));
+        while (!gameOver()){
+            
+        }
+        return activePlayer;
+    }
+    
+    public void setGameWindow(ScrabbleWindow sW){
+        this.scrabbleWindow = sW;
+    }
+    
+    public void switchTurn(){
+        if (activePlayer == player1)
+            activePlayer = player2;
+        else
+            activePlayer = player1;
+    }
+    public boolean isActive(Player player){
+        if(player == activePlayer)
+            return true;
+        return false;
+    }
+    
+    public boolean gameOver() {
+        if (player1.getNumTiles()==0 && tilesLeft.isEmpty()) {
+            return true;
+        }
+        if (player2.getNumTiles()==0 && tilesLeft.isEmpty()) {
+            return true;
+        }
+
+        return false;
+    }
+
+    public void initializeGame(){
+        if (debug) System.out.print("Loading program... ");
+
+        if (debug) System.out.println("done!");
+
+        if (debug) System.out.println("Loading dictionary from " + fileName + ", this may take a minute... ");
+        try{
+            dD.loadDictionary(fileName);
+        } catch(IOException ioE){
+            System.out.println("Error: Could not read contents of file!");
+        }
+        if (debug) System.out.println("The dictionary is loaded, begin program.");
+
+        if (debug){
+
+            System.out.println("\nList of words loaded in the dawg: ");
+            dD.printDawg();
+        }
+
+        // Test a word for acceptance
+        dD.isAccepted("dog");
+    
+    }
+        
+}

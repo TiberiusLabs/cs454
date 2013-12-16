@@ -1,0 +1,99 @@
+|Q|   = 394690
+|F|   = 178378
+|Q\F| = 216312
+|P|   = 26
+
+0 : a10 b9 c25 d25 e25 f14 g21 h15 i25 j25 k15 l13 m12 n15 o22 p15 q25 r24 s25 t15 u25 v25 w25 x25 y15 z15 
+10 : a8 b2 c25 d8 e8 f25 g5 h5 i8 j25 k25 l0 m5 n5 o25 p25 q25 r8 s8 t8 u25 v15 w5 x8 y8 z25 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h8 i-1 j-1 k-1 l8 m-1 n-1 o-1 p-1 q-1 r25 s8 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+-1 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e25 f-1 g-1 h-1 i25 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s8 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d8 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n25 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g8 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i25 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s8 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i8 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s8 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d25 e-1 f-1 g25 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r25 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v25 w25 x-1 y-1 z-1 
+25 : a25 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r25 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k8 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s8 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o25 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e8 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s8 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s8 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g25 h-1 i-1 j-1 k-1 l25 m25 n-1 o-1 p-1 q-1 r-1 s25 t25 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e25 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r25 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n8 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e8 f-1 g-1 h-1 i25 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s8 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s8 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c8 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a25 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m8 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s8 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o25 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y25 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g25 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i25 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y8 z-1 
+25 : a-1 b-1 c8 d-1 e25 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s8 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s25 t25 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e25 f-1 g-1 h-1 i25 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s8 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s8 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i25 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c8 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e25 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t25 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e25 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r8 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s8 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a25 b-1 c-1 d-1 e25 f-1 g-1 h-1 i25 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n8 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s8 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s8 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s8 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i25 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c8 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r25 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g25 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i25 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y8 z-1 
+25 : a-1 b-1 c-1 d-1 e25 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s8 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z25 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y25 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v15 w-1 x-1 y-1 z-1 
+15 : a8 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s8 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+25 : a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z8 
+8A: a-1 b-1 c-1 d-1 e-1 f-1 g-1 h-1 i-1 j-1 k-1 l-1 m-1 n-1 o-1 p-1 q-1 r-1 s-1 t-1 u-1 v-1 w-1 x-1 y-1 z-1 
+
+tested 178578 words
+tests failed: 0

@@ -1,0 +1,100 @@
+Amandeep Gill
+CS454 - Theory of Computation
+Homework 5
+
+1)  a) L(A) = { (a^m)(b^n)(c^n) | m, n >= 0 }
+       L(B) = { (a^n)(b^n)(c^m) | m, n >= 0 }
+       
+       in L(A), #b = #c
+       in L(B), #a = #b
+       
+       in the intersection of L(A) and L(B), 
+           -> #a = #b
+              #b = #c
+           so #a = #b = #c
+       this means that
+           -> L(A) n L(B) = { (a^n)(b^n)(c^n) | n >= 0 }
+       therefore, by Ex2.36:
+       context-free grammars are not close under complement
+    b) Let L(A), L(B) be CFGs
+       Let L(C) = L(A) U L(B)
+           -> L'(C) = L'(A) n L'(B) : by DeMorgan's law applied to sets
+       which would imply that CFGs are closed for intersection
+       intersection is shown above to not be closed in CFGs
+       therefore:
+       CFGs are not closed for complement
+        
+2)  Let G = (V,Σ,R,<STMT>) be defined by:
+             <STMT> -> <ASSIGN> | <IF-THEN> | <IF-THEN-ELSE>
+          <IF-THEN> -> if condition then <STMT>
+     <IF-THEN-ELSE> -> if condition then <STMT> else <STMT>
+           <ASSIGN> -> a:=1
+    Σ = {if, condition, else, a:=1}
+    V = {<STMT>, <IF-THEN>, <IF-THEN-ELSE>, <ASSIGN>}
+
+    a) this is an ambiguous grammar since the else in the string
+        -> "if condition then if condition then a:=1 else a:=1"
+       can be either 
+        -> "if condition then (if condition then a:=1 else a:=1)"
+       or
+        -> "if condition then (if condition then a:=1) else a:=1"
+    
+    b) an unambiguous grammar for the language is:
+       Let H = (V,Σ,R,<STMT>)
+                <STMT> -> <ASSIGN> | <IF-THEN> | <IF-THEN-ELSE>
+             <IF-THEN> -> ( if condition then <STMT> )
+        <IF-THEN-ELSE> -> ( if condition then <STMT> else <STMT> )
+              <ASSIGN> -> a:=1
+       Σ = { if, condition, else, a:=1, (, ) }
+       V = { <STMT>, <IF-THEN>, <IF-THEN-ELSE>, <ASSIGN> }
+
+3)  a) aabaab: rejected
+    b) aaaaba: accepted
+             S
+           /    \
+          A       B
+         / \     / \
+        a   A   b   A
+           / \       \
+          a   A       a
+             / \  
+            a   A 
+               /  
+              a   
+                           
+    c) aabbaa: rejected
+    d) abaaba: accepted
+              S
+            / |  \
+          /   |      \
+         A    B        S
+         |   / \      / \
+         a   b  A    /   B
+                |   /   / \
+                a  A   b   A
+                   |       |
+                   a       a
+                               
+4)  L = { w <- {a,b}* | #a(w) <= #b(w) <= 2#a(w) }
+    let G = (V,Σ,R,<STMT>) be the grammar for L and defined as:
+        S -> aSB | BSa | ε
+        B -> bb | b
+
+        Σ = { a, b }
+        V = { S, B }
+
+    then the PDA for L is defined as:
+        Q = { q0, q1, q2 }
+        Σ = { a, b }
+        Γ = { 1, 2, S, B }
+        S = q0
+        F = { q2 }
+
+        δ(q0,ε,Z) -> (q1,SZ)
+        δ(q1,ε,S) -> (q1,1SB)
+        δ(q1,ε,S) -> (q1,BS1)
+        δ(q1,ε,B) -> (q1,22)
+        δ(q1,ε,B) -> (q1,2)
+        δ(q1,a,1) -> (q1,ε)
+        δ(q1,b,2) -> (q1,ε)
+        δ(q1,ε,Z) -> (q2,ε)
